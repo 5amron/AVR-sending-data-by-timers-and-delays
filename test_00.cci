@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:48420AAB
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr\inc\alcd.h"
+NODE:F LEVEL:0 LINE:34 "timer0_ovf_isr(void)"
+NODE:V LEVEL:0 LINE:39 "flag -> R2.0"
+NODE:V LEVEL:0 LINE:40 "dc -> RAM:????"
+NODE:F LEVEL:0 LINE:42 "timer0_comp_isr(void)"
+NODE:F LEVEL:0 LINE:69 "main(void)"
