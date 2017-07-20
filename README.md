@@ -4,4 +4,4 @@ one avr microcontroller sends binary data as transmitter to another as a receive
 calculates duty cycle of the receiving signal and determines if this is a zero or an one.
 
 samanSadeghyan
-samronsadeghyan@gmail.com
+s.sadeghy325@gmail.com
